@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kalana Jayasuriya	kalana@git.training		kalanaej
 
 # THANKS
 
